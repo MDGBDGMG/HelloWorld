@@ -2,5 +2,6 @@ package com.mzp
 class HelloGitHub{
    public static void main(String[] agrs){
       System.out.print("HelloGitHub");
+      System.out.print("HelloGitHub");
    }
 }
